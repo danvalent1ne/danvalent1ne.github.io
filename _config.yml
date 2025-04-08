@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default"
-title                    : "DV"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Daniel Valentine"
 description              : &description "PhD candidate working on exoplanet atmospheres at the University of Bristol"
@@ -29,7 +29,7 @@ author:
   location         : "Bristol"
   employer         : "University of Bristol"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "daniel.valentine@bristol.ac.uk"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "@danvalentine.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "@danvalentine" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
