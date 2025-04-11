@@ -13,4 +13,5 @@ What I'm Interested In
 ======
 Dan is typing...
 
-![Eclipse Mapping GIF](images/eclipse_mapping.gif "How Eclipse Mapping Works")
+**How Eclipse Mapping Works:**
+![Eclipse Mapping GIF](images/eclipse_mapping.gif)
