@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default"
-title                    : "About Me"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Daniel Valentine"
 description              : &description "PhD candidate working on exoplanet atmospheres at the University of Bristol"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "dan.jpg"
   name             : "Daniel Valentine"
-  pronouns         : "He/Him"
+  pronouns         : "He/Him, Cymro"
   bio              : "Eclipse mapping, atmospheric dynamics, 3D information"
   location         : "Bristol"
   employer         : "University of Bristol"
