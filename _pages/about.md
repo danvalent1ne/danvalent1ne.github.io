@@ -13,4 +13,4 @@ What I'm Interested In
 ======
 Dan is typing...
 
-![alt text](dan.jpg)
+![hello](images/dan.jpg)
