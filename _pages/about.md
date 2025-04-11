@@ -12,3 +12,5 @@ I'm a 3rd year PhD student at the University of Bristol, where I work on exoplan
 What I'm Interested In
 ======
 Dan is typing...
+
+![alt text](dan.jpg)
