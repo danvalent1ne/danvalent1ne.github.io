@@ -31,7 +31,7 @@ Grants, Scholarships, and Awards
 * **Bolton Prize in Astrophysics**, University of Leeds (2022).
   * _Awarded to the student, on a Physics with Astrophysics programme, achieving the highest classification average._
 * **Scholarship of Academic Excellence**, University of Leeds (2018 - 2022).
-  * _Awarded to students achieving A$^*$A$^*$A or higher at A level, and thereafter maintaining a first class average._
+  * _Awarded to students achieving A*A*A or higher at A level, and thereafter maintaining a first class average._
 
 Conferences, Summer Schools, and Workshops
 ======
