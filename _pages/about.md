@@ -11,7 +11,7 @@ I'm a 3rd year PhD student at the University of Bristol, where I work on exoplan
 
 _Amdana Fi_
 ======
-_Dwi'n disgybl yn y 3ydd blwyddyn o fy PhD at Brisfysgol Briste, lle dwi'n gweithio ar atmosfferau allblanedau trwy defnyddio y "transit method". Yn benodol, dwi'n defnyddio mesuriadau o'r "secondary eclipse" er mwyn astudio ei hemisffer holl-dydd. Dwi'm gwneud hyn gan defnyddio dwy prif technegau: (1) "emission spectroscopy" er mwyn astudio yr cemeg a proffil tymheredd-pwysedd cyfartal dros y hemisffer; a (2) "eclipse mapping", sy'n defnyddio y geometreg o'r eclips efo mesuriadau cadens uchel a sbectroscopeg er mwyn mapio's proffil tymheredd mewn 3D, sy'n cael ei siapu gan y dynamegau atmosfferig._
+_Dwi'n disgybl yn y 3ydd blwyddyn o fy PhD at Brisfysgol Briste, lle dwi'n gweithio ar atmosfferau allblanedau trwy defnyddio y "transit method". Yn benodol, dwi'n defnyddio mesuriadau o'r "secondary eclipse" er mwyn astudio ei hemisffer ochr dydd. Dwi'm gwneud hyn gan defnyddio dwy prif technegau: (1) "emission spectroscopy" er mwyn astudio yr cemeg a proffil tymheredd-pwysedd cyfartal dros y hemisffer; a (2) "eclipse mapping", sy'n defnyddio y geometreg o'r eclips efo mesuriadau cadens uchel a sbectroscopeg er mwyn mapio's proffil tymheredd mewn 3D, sy'n cael ei siapu gan y dynamegau atmosfferig._
 
 What I'm Interested In
 ======
