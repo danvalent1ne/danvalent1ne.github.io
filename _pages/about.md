@@ -13,4 +13,4 @@ What I'm Interested In
 ======
 Dan is typing...
 
-![hello](images/dan.jpg)
+![Eclipse Mapping GIF](images/eclipse_mapping.gif)
