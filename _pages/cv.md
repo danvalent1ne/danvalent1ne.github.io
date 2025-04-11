@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* **PhD in Astrophysics**, University of Bristol (Jan 2023 $-$ Present).
+* **PhD in Astrophysics**, University of Bristol (Jan 2023 - Present).
   * _Research Focus: Emission Spectroscopy and Eclipse Mapping of Transiting Exoplanet Atmospheres with JWST and Ariel._
   * _Supervisor: Dr Hannah Wakeford._
-* **MPhys Physics with Astrophysics**, University of Leeds (Sep 2018 $-$ Jul 2022).
-  * _Grade: First Class (Average Mark $-$ 87)._
+* **MPhys Physics with Astrophysics**, University of Leeds (Sep 2018 - Jul 2022).
+  * _Grade: First Class (Average Mark - 87)._
   * _MPhys Project: Studying the Invisible in the Visible: An Optical Catalogue and Pilot Survey of the Multiplicity of Massive Young Stellar Objects (MYSOs) using Gaia._
   * _Supervisor: Professor René Oudmaijer._
 
 Research Positions
 ======
-* **ESA Archival Research Visitor**, European Space Research and Technology Centre (ESTEC, Oct $-$ Dec 2024).
+* **ESA Archival Research Visitor**, European Space Research and Technology Centre (ESTEC, Oct - Dec 2024).
   * _Research Focus: Assessing the Eclipse Mapping Capabilities of Ariel through JWST Archival Studies._
-  * _Hosts: Dr Maximillian Günther \& Dr Theresa Lüftinger._
+  * _Hosts: Dr Maximillian Günther & Dr Theresa Lüftinger._
   * _Awarded through competitive selection._
   
 Grants, Scholarships, and Awards
 ======
 * **Bolton Prize in Astrophysics**, University of Leeds (2022).
   * _Awarded to the student, on a Physics with Astrophysics programme, achieving the highest classification average._
-* **Scholarship of Academic Excellence**, University of Leeds (2018 $-$ 2022).
+* **Scholarship of Academic Excellence**, University of Leeds (2018 - 2022).
   * _Awarded to students achieving A$^*$A$^*$A or higher at A level, and thereafter maintaining a first class average._
 
 Conferences, Summer Schools, and Workshops
@@ -44,8 +44,8 @@ Conferences, Summer Schools, and Workshops
 * **UK Exoplanet Meeting (UKExoM) 2024**, University of Birmingham, UK (Apr 2024).
   * _Contributed talk._
 * **BOWIE Collaboration JWST Proposal Workshop**, University of Bristol, UK (Sep 2023).
-  * _Local Organising Committee (LOC).
-* **ExoClimes VI Conference** \& **ExoSLAM I Summer School**_, University of Exeter, UK (Jun 2023).
+  * _Local Organising Committee (LOC)_.
+* **ExoClimes VI Conference** & **ExoSLAM I Summer School**_, University of Exeter, UK (Jun 2023).
   * _Contributed poster._
 * **BOWIE Collaboration JWST Proposal Workshop**, University of Oxford, UK (Mar 2023).
 
@@ -57,7 +57,7 @@ Seminars
   * _"Mapping the Dayside Atmospheres of Transiting Exoplanets: today with JWST, one day with Ariel"_.
 * **ExoCoffee, Max Planck Institute for Astronomy (MPIA)** (Nov 2024).
   * _Summary of “JWST-TST DREAMS: Non-Uniform Dayside Emission for WASP-17b from MIRI/LRS"_.
-* **Exoplanets \& Discs Meeting, University of Amsterdam** (Nov 2024).
+* **Exoplanets & Discs Meeting, University of Amsterdam** (Nov 2024).
   * _"A Tale of Two Models: the limitations of 1D modelling and need for 3D modelling of exoplanet atmospheres in the era of JWST"_.
 * **Exoplanet Lunch Meeting, University of Leiden** (Nov 2024).
   * _"A Tale of Two Models: the limitations of 1D modelling and need for 3D modelling of exoplanet atmospheres in the era of JWST"_.
@@ -82,7 +82,7 @@ Posters
 
 Teaching and Outreach
 ======
-* **Teaching Support Assistant**, University of Bristol (Jan 2024 $-$ Apr 2025).
+* **Teaching Support Assistant**, University of Bristol (Jan 2024 - Apr 2025).
   * _PHYS10600 Stars & Planets, 1st Year undergraduate course - 70hrs/semester, ∼ 120-140 students_.
 * **Pint of Science**, Invited Public Outreach Talk (May 2024).
   * _"Looking on the bright side: mapping dayside exoplanet atmospheres with the James Webb Space Telescope"_.
@@ -106,15 +106,15 @@ PI Programmes
   * _Small Programme, 26.1 hrs, 2 MIRI/LRS Eclipses_.
 
 Co-I Programmes
-* **[JWST GO 8309](https://www.stsci.edu/jwst/science-execution/program-information?id=8309)**: It’s (poly)Morphin’ Time! Solving the quartz quandary of WASP-17b, PIs: E. Mullens \& S. Moran.
+* **[JWST GO 8309](https://www.stsci.edu/jwst/science-execution/program-information?id=8309)**: It’s (poly)Morphin’ Time! Solving the quartz quandary of WASP-17b, PIs: E. Mullens & S. Moran.
   * _Small Programme, 37.8 hrs, 2+1 MIRI/LRS Transits+Eclipse_.
-* **[JWST GO 7849](https://www.stsci.edu/jwst/science-execution/program-information?id=7849)**: Meeting their Match: Measuring Cloudy Hot Jupiter Counterparts to Understand the Silicate Cloud Regime with JWST/MIRI, PIs: S. Moran \& L. Alderson.
+* **[JWST GO 7849](https://www.stsci.edu/jwst/science-execution/program-information?id=7849)**: Meeting their Match: Measuring Cloudy Hot Jupiter Counterparts to Understand the Silicate Cloud Regime with JWST/MIRI, PIs: S. Moran & L. Alderson.
   * _Small Programme, 46.1 hrs, 4 MIRI/LRS Transits_.
-* **[JWST GO 6978](https://www.stsci.edu/jwst/science-execution/program-information?id=6978)**: The dayside of the coolest ultra-hot Jupiter, KELT-20b, resolved with eclipse mapping, PIs: J. Wardenier, A. Bernier \& M. Hammond.
+* **[JWST GO 6978](https://www.stsci.edu/jwst/science-execution/program-information?id=6978)**: The dayside of the coolest ultra-hot Jupiter, KELT-20b, resolved with eclipse mapping, PIs: J. Wardenier, A. Bernier & M. Hammond.
   * _Small Programme, 16.8 hrs, 1 NIRSpec/G395H Eclipse_.
-* **[JWST GO 6456/9256](https://www.stsci.edu/jwst/science-execution/program-information?id=6456)**: Using stellar contamination proxy TRAPPIST-1 b to search for an atmosphere on TRAPPIST-1e, PIs: N. Allen \& N. Espinoza.
+* **[JWST GO 6456/9256](https://www.stsci.edu/jwst/science-execution/program-information?id=6456)**: Using stellar contamination proxy TRAPPIST-1 b to search for an atmosphere on TRAPPIST-1e, PIs: N. Allen & N. Espinoza.
   * _Large Programme, 52.1+76.7 hrs, 15 NIRSpec/PRISM Transits_.
-* **[JWST GO 4105](https://www.stsci.edu/jwst/science-execution/program-information?id=4105)**: Not Your Normal Neptune: Exploring the Chemical Processes at Play in HAT-P-11b, PIs: L. Alderson \& C. Fairman.
+* **[JWST GO 4105](https://www.stsci.edu/jwst/science-execution/program-information?id=4105)**: Not Your Normal Neptune: Exploring the Chemical Processes at Play in HAT-P-11b, PIs: L. Alderson & C. Fairman.
   * _Small Programme, 14.3 hrs, 2 NIRSpec/G395H Transits_.
 
 Publications
