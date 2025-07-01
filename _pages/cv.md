@@ -45,7 +45,7 @@ Conferences, Summer Schools, and Workshops
   * _Contributed talk._
 * **BOWIE Collaboration JWST Proposal Workshop**, University of Bristol, UK (Sep 2023).
   * _Local Organising Committee (LOC)_.
-* **ExoClimes VI Conference** & **ExoSLAM I Summer School**_, University of Exeter, UK (Jun 2023).
+* **ExoClimes VI Conference** & **ExoSLAM I Summer School**, University of Exeter, UK (Jun 2023).
   * _Contributed poster._
 * **BOWIE Collaboration JWST Proposal Workshop**, University of Oxford, UK (Mar 2023).
 
@@ -120,7 +120,7 @@ Co-I Programmes
 Publications
 ======
 First Author
-* **[JWST-TST DREAMS: Non-Uniform Dayside Emission for WASP-17b from MIRI/LRS](https://arxiv.org/abs/2412.03675)**.
+* **[JWST-TST DREAMS: Non-Uniform Dayside Emission for WASP-17b from MIRI/LRS](https://arxiv.org/abs/2410.08148)**
   * **Valentine, D.**, et al., 2024, AJ, 168, 123.
 
 Co-Author
