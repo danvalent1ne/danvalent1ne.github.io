@@ -75,10 +75,9 @@ Dan is typing...
 
 [//]: # (So by using this strategy for future proposals, we’re really opening up the parameter space to mapping longer period planets using only a fraction of the observing time.)
 
-
-[//]: # (_Be Dwi'n Gweithio Arno_)
-[//]: # (======)
-[//]: # (_Mae Dan yn teipio..._)
+Be Dwi'n Gweithio Arno
+======
+Mae Dan yn teipio...
 
 **How Eclipse Mapping Works:**
 ![Eclipse Mapping GIF](images/eclipse_mapping.gif)
