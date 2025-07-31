@@ -27,6 +27,11 @@ Traditionally, exoplanet atmospheres were treated as 1D due to limitations with 
 
 Eclipse mapping...
 
+Eclipse mapping takes the secondary eclipse measurement one step further in order to unlock the full three-dimensional (longitude-latitude-pressure) profile of exoplanet atmospheres. During eclipse ingress, the dayside of the planet is gradually occulted by the star, corresponding to gradual flux decreases in the light curve until the planet is fully eclipsed. The inverse is also true during egress as the planet is revealed from behind the star. With high-cadence data, these partial eclipse phases during ingress/egress are well sampled, wherein the star is essentially observed to be obscuring/revealing successive "slices" over the dayside profile. The change in flux between successive measurements can therefore be attributed to these slices. Hence, by differencing successive measurements, the flux of each slice can be isolated, assuming one has data of sufficient flux precision and stability. This enables slice profiles of the dayside atmosphere to be derived from both ingress and egress. The eclipse geometry of ingress is approximately inverse to that of egress for planets that orbit off the stellar equator due to the inverse eclipsing angle of the stellar limb, resulting in oppositely oriented slice profiles from ingress/egress. Combining these complementary profile therefore results in a grid which slices over both the longitudes and latitudes of the dayside hemisphere, within which the flux of each cell is measurable, enabling the construction of a 2D map of the dayside thermal profile. Performing this mapping technique as a function of pressure with spectroscopic observations further extends the profile to 3D.
+
+[//]: # (By exploiting the geometry of eclipse with high-cadence observations, eclipse mapping can therefore additionally measure the latitudinal profile, and overall constrain smaller-scale structure than is possible with phase mapping. However, eclipse mapping requires higher quality data than phase mapping, and can only map the dayside.)
+
+
 [//]: # (**How Eclipse Mapping Works:**)
 
 
