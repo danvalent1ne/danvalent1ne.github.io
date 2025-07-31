@@ -28,15 +28,21 @@ Research Positions
   
 Grants, Scholarships, and Awards
 ======
+* **ESA Archival Research Visitor Funding**, ESTEC (Sep - Dec 2024).
+  * _Competitively awarded and fully funded (~£10,000)._
 * **Bolton Prize in Astrophysics**, University of Leeds (2022).
   * _Awarded to the student, on a Physics with Astrophysics programme, achieving the highest classification average._
 * **Scholarship of Academic Excellence**, University of Leeds (2018 - 2022).
-  * _Awarded to students achieving A*A*A or higher at A level, and thereafter maintaining a first class average._
+  * _Awarded to students achieving A*A*A or higher at A level, and thereafter maintaining a first class average. £1000 per year._
 
 Conferences, Summer Schools, and Workshops
 ======
 * **Exoclimes VII Conference**, Université de Montréal, Canada (Jul 2025).
   * _Contributed poster._
+* **ARES IV**, Frèjus, France (Jun 2023).
+  * _Ariel Summer School_.
+* **BOWIE Collaboration JWST Proposal Workshop**, University of Leeds, UK (Apr 2023).
+  * _Session Chair_.
 * **UK Exoplanet Meeting (UKExoM) 2025**, University of Leeds, UK (Apr 2025).
   * _Contributed poster._
 * **Exoplanets V Conference**, Leiden, Netherlands (Jun 2024).
@@ -82,6 +88,8 @@ Posters
 
 Teaching and Outreach
 ======
+* **Institute of Physics (IoP) Volunteer**, Wrexham Eisteddfod (Aug 2025).
+  * _2 days volunteering at the IoP stand at the Welsh National Eisteddfod, Europe's largest cultural event_.
 * **Teaching Support Assistant**, University of Bristol (Jan 2024 - Apr 2025).
   * _PHYS10600 Stars & Planets, 1st Year undergraduate course - 70hrs/semester, ∼ 120-140 students_.
 * **Pint of Science**, Invited Public Outreach Talk (May 2024).
@@ -120,10 +128,20 @@ Co-I Programmes
 Publications
 ======
 First Author
+* JWST-TST DREAMS: 3D Eclipse Mapping of WASP-17b with NIRISS/SOSS, NIRSpec/G395H, and MIRI/LRS
+  * **Valentine, D.**, et al., in prep.
+* Eclipse Mapping with Ariel: Future Prospects for a Population-Level Mapping Survey
+  * **Valentine, D.**, et al., MNRAS, in review.
 * **[JWST-TST DREAMS: Non-Uniform Dayside Emission for WASP-17b from MIRI/LRS](https://arxiv.org/abs/2410.08148)**
   * **Valentine, D.**, et al., 2024, AJ, 168, 123.
 
 Co-Author
+* JWST-TST DREAMS: Secondary Atmosphere Constraints for the Habitable Zone Planet TRAPPIST-1e
+  * Glidden, A., et al., ApJ, accepted.
+* JWST-TST DREAMS: NIRSpec/PRISM Transmission Spectroscopy of the Habitable Zone Planet TRAPPIST-1 e
+  * Espinoza, N., et al., ApJ, accepted.
+* BOWIE-ALIGN: weak spectral features in KELT-7b’s JWST NIRSpec/G395H transmission spectrum imply a high cloud deck or a low-metallicity atmosphere
+  * Ahrer, E., et al., MNRAS, in review.
 * **[BOWIE-ALIGN: Sub-stellar metallicity and carbon depletion in the aligned TrES-4b with JWST NIRSpec transmission spectroscopy](https://arxiv.org/abs/2503.24280)**
   * Meech, A., et al., MNRAS, 2025, TBC.
 * **[JWST-TST DREAMS: A Precise Water Abundance for Hot Jupiter WASP-17b from the NIRISS SOSS Transmission Spectrum](https://arxiv.org/abs/2412.03675)**
