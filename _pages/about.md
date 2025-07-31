@@ -13,9 +13,11 @@ _Amdana Fi (🗣️🏴󠁧󠁢󠁷󠁬󠁳󠁿)_
 ======
 _Dwi'n disgybl yn blwyddyn olaf o fy PhD at Brisfysgol Briste, lle dwi'n gweithio ar deall atmosfferau allblanedau gan defnyddio y "transit method". Yn benodol, dwi'n defnyddio mesuriadau o'r eclips eilaidd, pan mae'r allblaned yn cael ei ddatguddio tu ôl ei seren, er mwyn astudio yr hemisffer ochr dydd o'r bydoedd egsotic 'ma. Dwi'm gwneud hyn gan defnyddio dau dechneg sylfaenol: (1) "emission spectroscopy" er mwyn astudio yr cemeg hemesfferig-cyfartaleg ac y proffil tymheredd fertigol; ac (2) "eclipse mapping", sy'n defnyddio y geometreg o'r eclips efo mesuriadau cadens uchel a sbectroscopeg er mwyn mapio'r proffil tymheredd mewn 3D. Am mwy wybodaeth, cer i'r tab "Research"._
 
-What I'm Interested In
-======
-Dan is typing...
+[//]: # (What I'm Interested In)
+
+[//]: # (======)
+
+[//]: # (Dan is typing...)
 
 [//]: # (The primary aim of my PhD is to use eclipse mapping in order to better understand exoplanet atmospheric dynamics, particularly how they vary across the population and what are the first-order effects that govern them. To achieve these goals, I am interested in:)
 
@@ -75,8 +77,9 @@ Dan is typing...
 
 [//]: # (So by using this strategy for future proposals, we’re really opening up the parameter space to mapping longer period planets using only a fraction of the observing time.)
 
-Fy Diddordebau Astudiol
-======
-Mae Dan yn teipio...
+[//]: # (Fy Diddordebau Astudiol)
 
-[//]: # (![Eclipse Mapping GIF]&#40;images/eclipse_mapping.gif&#41;)
+[//]: # (======)
+
+[//]: # (Mae Dan yn teipio...)
+
