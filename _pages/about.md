@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year PhD student at the University of Bristol, where I work on characterising exoplanet atmospheres using the transit method. In particular, I use secondary eclipse observations, when a transiting exoplanet is eclipsed by its host star, to characterise the daysides of these exotic worlds. I do this using two primary methods: (1) emission spectroscopy in order to characterise the hemispherically-averaged chemistry and vertical temperature profile; and (2) eclipse mapping, which exploits the geometry of secondary eclipse with high-cadence, spectroscopic observations to map the 3D thermal profile. For more information on these techniques, see "My Research".
+I'm a final year PhD student at the University of Bristol, where I work on characterising exoplanet atmospheres using the transit method. In particular, I use secondary eclipse observations, when a transiting exoplanet is eclipsed by its host star, to characterise the daysides of these exotic worlds. I do this using two primary methods: (1) emission spectroscopy in order to characterise the hemispherically-averaged chemistry and vertical temperature profile; and (2) eclipse mapping, which exploits the geometry of secondary eclipse with high-cadence, spectroscopic observations to map the 3D thermal profile. For more information on these techniques, see the Research tab.
 
 _Amdana Fi (🗣️🏴󠁧󠁢󠁷󠁬󠁳󠁿)_
 ======
-_Dwi'n disgybl yn blwyddyn olaf o fy PhD at Brisfysgol Briste, lle dwi'n gweithio ar deall atmosfferau allblanedau gan defnyddio y "transit method". Yn benodol, dwi'n defnyddio mesuriadau o'r eclips eilaidd, pan mae'r allblaned yn cael ei ddatguddio tu ôl ei seren, er mwyn astudio yr hemisffer ochr dydd o'r bydoedd egsotic 'ma. Dwi'm gwneud hyn gan defnyddio dau dechneg sylfaenol: (1) "emission spectroscopy" er mwyn astudio yr cemeg hemesfferig-cyfartaleg ac y proffil tymheredd fertigol; ac (2) "eclipse mapping", sy'n defnyddio y geometreg o'r eclips efo mesuriadau cadens uchel a sbectroscopeg er mwyn mapio'r proffil tymheredd mewn 3D._
+_Dwi'n disgybl yn blwyddyn olaf o fy PhD at Brisfysgol Briste, lle dwi'n gweithio ar deall atmosfferau allblanedau gan defnyddio y "transit method". Yn benodol, dwi'n defnyddio mesuriadau o'r eclips eilaidd, pan mae'r allblaned yn cael ei ddatguddio tu ôl ei seren, er mwyn astudio yr hemisffer ochr dydd o'r bydoedd egsotic 'ma. Dwi'm gwneud hyn gan defnyddio dau dechneg sylfaenol: (1) "emission spectroscopy" er mwyn astudio yr cemeg hemesfferig-cyfartaleg ac y proffil tymheredd fertigol; ac (2) "eclipse mapping", sy'n defnyddio y geometreg o'r eclips efo mesuriadau cadens uchel a sbectroscopeg er mwyn mapio'r proffil tymheredd mewn 3D. Am mwy wybodaeth, cer i'r tab "Research"._
 
 What I'm Interested In
 ======
@@ -78,6 +78,3 @@ Dan is typing...
 Fy Diddordebau Astudiol
 ======
 Mae Dan yn teipio...
-
-**How Eclipse Mapping Works:**
-![Eclipse Mapping GIF](images/eclipse_mapping.gif)
