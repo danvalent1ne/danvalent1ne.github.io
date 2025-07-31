@@ -26,7 +26,7 @@ author:
   name             : "Daniel Valentine"
   pronouns         : "He/Him, Cymro"
   bio              : "Eclipse mapping, atmospheric dynamics, 3D information"
-  location         : "Bristol"
+#  location         : "Bristol"
   employer         : "University of Bristol"
   uri              : # URL
   email            : "daniel.valentine@bristol.ac.uk"
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "@danvalentine" # Replace this with you Bluesky username
+  bluesky          : "danvalentine.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
