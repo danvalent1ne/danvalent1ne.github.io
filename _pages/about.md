@@ -79,4 +79,4 @@ Fy Diddordebau Astudiol
 ======
 Mae Dan yn teipio...
 
-![Eclipse Mapping GIF](images/eclipse_mapping.gif)
+[//]: # (![Eclipse Mapping GIF]&#40;images/eclipse_mapping.gif&#41;)
