@@ -22,12 +22,12 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
+
+  - title: "Research"
+    url: /methods/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Research"
-    url: /methods/
     
 #  - title: "Guide"
 #    url: /markdown/
