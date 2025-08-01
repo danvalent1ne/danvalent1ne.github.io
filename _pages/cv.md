@@ -12,10 +12,9 @@ header:
 
 {% include base_path %}
 
-<span style="color:red">
+<span style="color:blue, font-size:18px">
 CV
 </span>
-======
 
 Education
 ======
