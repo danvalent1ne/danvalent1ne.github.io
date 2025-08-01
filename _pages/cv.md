@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: "CV"
-include_in_header: false
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
