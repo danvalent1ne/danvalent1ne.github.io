@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+#title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,8 @@ header:
     overlay_image: ../images/Wasp_17b_v4_CloseUp.png
     caption: "Photo credit: NASA, ESA, CSA, Ralf Crawford (STScI)"
 ---
-
+_About Me_
+======
 I'm a final year PhD student at the University of Bristol, where I work on characterising exoplanet atmospheres using the transit method. In particular, I use secondary eclipse observations, when a transiting exoplanet is eclipsed by its host star, to characterise the daysides of these exotic worlds. I do this using two primary methods: (1) emission spectroscopy in order to characterise the hemispherically-averaged chemistry and vertical temperature profile; and (2) eclipse mapping, which exploits the geometry of secondary eclipse with high-cadence, spectroscopic observations to map the 3D thermal profile and atmospheric dynamics. For more information on these techniques, see the Research tab.
 
 _Amdana Fi (🗣️🏴󠁧󠁢󠁷󠁬󠁳󠁿)_
