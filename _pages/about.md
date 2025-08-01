@@ -1,11 +1,11 @@
 ---
 layout: archive
-permalink: /about/
 title: " "
+permalink: /about/
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about
+#  - /about.html
 header:
     overlay_image: ../images/Wasp_17b_v4_CloseUp.png
     caption: "Photo credit: NASA, ESA, CSA, Ralf Crawford (STScI)"
