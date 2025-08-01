@@ -24,7 +24,8 @@ Research Positions
 * **ESA Archival Research Visitor**, European Space Research and Technology Centre (ESTEC, Oct - Dec 2024).
   * _Research Focus: Assessing the Eclipse Mapping Capabilities of Ariel through JWST Archival Studies._
   * _Hosts: Dr Maximillian Günther & Dr Theresa Lüftinger._
-  * _Awarded through competitive selection._
+
+[//]: # (  * _Awarded through competitive selection._)
   
 Grants, Scholarships, and Awards
 ======
@@ -37,22 +38,27 @@ Grants, Scholarships, and Awards
 
 Conferences, Summer Schools, and Workshops
 ======
+Conferences
 * **Exoclimes VII Conference**, Université de Montréal, Canada (Jul 2025).
   * _Contributed poster._
-* **ARES IV**, Frèjus, France (Jun 2023).
-  * _Ariel Summer School_.
-* **BOWIE Collaboration JWST Proposal Workshop**, University of Leeds, UK (Apr 2023).
-  * _Session Chair_.
-* **UK Exoplanet Meeting (UKExoM) 2025**, University of Leeds, UK (Apr 2025).
+* **UK Exoplanet Meeting (UKExoM) 2025**, University of Leeds, UK (Apr 2024).
   * _Contributed poster._
 * **Exoplanets V Conference**, Leiden, Netherlands (Jun 2024).
   * _Contributed talk._
 * **UK Exoplanet Meeting (UKExoM) 2024**, University of Birmingham, UK (Apr 2024).
   * _Contributed talk._
-* **BOWIE Collaboration JWST Proposal Workshop**, University of Bristol, UK (Sep 2023).
-  * _Local Organising Committee (LOC)_.
 * **ExoClimes VI Conference** & **ExoSLAM I Summer School**, University of Exeter, UK (Jun 2023).
   * _Contributed poster._
+
+Summer Schools
+* **ARES IV (Ariel Summer School)**, Frèjus, France (Jun 2023).
+* **ExoSLAM I Summer School**, University of Exeter, UK (Jun 2023).
+
+Workshops
+* **BOWIE Collaboration JWST Proposal Workshop**, University of Leeds, UK (Apr 2023).
+  * _Session Chair_.
+* **BOWIE Collaboration JWST Proposal Workshop**, University of Bristol, UK (Sep 2023).
+  * _Local Organising Committee (LOC)_.
 * **BOWIE Collaboration JWST Proposal Workshop**, University of Oxford, UK (Mar 2023).
 
   
