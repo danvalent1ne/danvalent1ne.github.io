@@ -12,7 +12,7 @@ header:
 
 {% include base_path %}
 
-<span style="color:blue" style="font-size:18px">
+<span style="color:blue">
 CV
 </span>
 
