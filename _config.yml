@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default"
-title                    : "DV -Home"
+title                    : "DV - Home"
 title_separator          : "-"
 name                     : &name "Daniel Valentine"
 description              : &description "PhD candidate working on exoplanet atmospheres at the University of Bristol"
