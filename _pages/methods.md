@@ -12,11 +12,12 @@ header:
 
 {% include base_path %}
 
-Research
+<span style="color:blue;font-size=30pt">CV</span>
 ======
 I work on characterising exoplanet atmospheres using the transit method. In particular, I use secondary eclipse observations, when a transiting exoplanet is eclipsed by its host star, to characterise the daysides of these exotic worlds. I do this using two primary methods:
 
-**Emission Spectroscopy**
+Emission Spectroscopy
+======
 
 ![Emission Spectroscopy GIF](../images/emission_spec_gif_v2.gif)
 
@@ -24,7 +25,8 @@ Transiting exoplanets on short orbits are tidally locked to their host stars, an
 
 For a planet with no atmosphere, the spectrum would (mostly) follow a blackbody. If there is an atmosphere present, however, then we will observe deviations from this blackbody shape due to atmospheric attenuation. At short wavelengths, we observe in reflected light - starlight reflected by the planetary atmosphere. This can be used to diagnose the presence, spatial distribution, and species of clouds. At longer wavelengths, we observe thermal emission from the planet itself, and can use these measurements to diagnose the atmospheric chemistry by observing the absorption/emission features of different chemical species, with the size of these features telling us how abundant those species are in the atmosphere. Since different wavelengths probe different altitudes of the atmosphere, these measurement can also be used to characterise the vertical temperature profile.
 
-**Eclipse Mapping**
+Eclipse Mapping
+======
 
 ![Eclipse Mapping GIF](../images/eclipse_mapping_gif.gif)
 
