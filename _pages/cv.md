@@ -84,7 +84,7 @@ Seminars
 
 Talks
 * **Madrid Area Exoplanet Science Meeting** (Invited Talk, Online, Dec 2024).
-  * _“Looking on the Bright Side: Mapping the Dayside Atmospheres of Transiting Exoplanets with JWST (...More?)"_.
+  * _“Looking on the Bright Side: Mapping the Dayside Atmospheres of Transiting Exoplanets with JWST (...and More?)"_.
 * **Exoplanets V** (Contributed Talk, Jun 2024).
   * _"A comprehensive 3D eclipse map of the hot Jupiter WASP-17b"_.
 * **UKExoM 2024** (Contributed Talk, Apr 2024).
