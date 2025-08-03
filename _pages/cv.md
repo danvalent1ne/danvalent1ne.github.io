@@ -47,7 +47,7 @@ Conferences, Summer Schools, and Workshops
 Conferences
 * **Exoclimes VII Conference**, Université de Montréal, Canada (Jul 2025).
   * _Contributed poster._
-* **UK Exoplanet Meeting (UKExoM) 2025**, University of Leeds, UK (Apr 2024).
+* **UK Exoplanet Meeting (UKExoM) 2025**, University of Leeds, UK (Apr 2025).
   * _Contributed poster._
 * **Exoplanets V Conference**, Leiden, Netherlands (Jun 2024).
   * _Contributed talk._
