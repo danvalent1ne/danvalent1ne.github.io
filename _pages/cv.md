@@ -61,11 +61,11 @@ Summer Schools
 * **ExoSLAM I Summer School**, University of Exeter, UK (Jun 2023).
 
 Workshops
-* **BOWIE Collaboration JWST Proposal Workshop**, University of Leeds, UK (Apr 2023).
+* **BOWIE+ Collaboration JWST Proposal Workshop**, University of Leeds, UK (Apr 2025).
   * _Session Chair_.
-* **BOWIE Collaboration JWST Proposal Workshop**, University of Bristol, UK (Sep 2023).
+* **BOWIE+ Collaboration JWST Proposal Workshop**, University of Bristol, UK (Sep 2023).
   * _Local Organising Committee (LOC)_.
-* **BOWIE Collaboration JWST Proposal Workshop**, University of Oxford, UK (Mar 2023).
+* **BOWIE+ Collaboration JWST Proposal Workshop**, University of Oxford, UK (Mar 2023).
 
   
 Talks, Seminars, and Posters
