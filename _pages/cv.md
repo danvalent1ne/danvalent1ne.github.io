@@ -19,15 +19,15 @@ Education
 ======
 * **PhD in Astrophysics**, University of Bristol (Jan 2023 - Present).
   * _Research Focus: Emission Spectroscopy and Eclipse Mapping of Transiting Exoplanet Atmospheres with JWST and Ariel._
-  * _Supervisor: Dr Hannah Wakeford._
+  * _Supervisor: [Dr Hannah Wakeford](https://stellarplanet.org)._
 * **MPhys Physics with Astrophysics**, University of Leeds (Sep 2018 - Jul 2022).
   * _Grade: First Class (Average Mark - 87)._
   * _MPhys Project: Studying the Invisible in the Visible: An Optical Catalogue and Pilot Survey of the Multiplicity of Massive Young Stellar Objects (MYSOs) using Gaia._
-  * _Supervisor: Professor René Oudmaijer._
+    * _Supervisor: [Professor René Oudmaijer](https://orcid.org/0000-0001-7703-3992)._
 
 Research Positions
 ======
-* **ESA Archival Research Visitor**, European Space Research and Technology Centre (ESTEC, Oct - Dec 2024).
+* **[ESA Archival Research Visitor](https://www.cosmos.esa.int/web/esdc/visitor-programme)**, European Space Research and Technology Centre (ESTEC, Oct - Dec 2024).
   * _Research Focus: Assessing the Eclipse Mapping Capabilities of Ariel through JWST Archival Studies._
   * _Hosts: Dr Maximillian Günther & Dr Theresa Lüftinger._
 
@@ -35,7 +35,7 @@ Research Positions
   
 Grants, Scholarships, and Awards
 ======
-* **ESA Archival Research Visitor Funding**, ESTEC (Sep - Dec 2024).
+* **[ESA Archival Research Visitor Funding](https://www.cosmos.esa.int/web/esdc/visitor-programme)**, ESTEC (Sep - Dec 2024).
   * _Competitively awarded and fully funded (~£10,000)._
 * **Bolton Prize in Astrophysics**, University of Leeds (2022).
   * _Awarded to the student, on a Physics with Astrophysics programme, achieving the highest classification average._
@@ -53,7 +53,7 @@ Conferences
   * _Contributed talk._
 * **UK Exoplanet Meeting (UKExoM) 2024**, University of Birmingham, UK (Apr 2024).
   * _Contributed talk._
-* **ExoClimes VI Conference** & **ExoSLAM I Summer School**, University of Exeter, UK (Jun 2023).
+* **ExoClimes VI Conference**, University of Exeter, UK (Jun 2023).
   * _Contributed poster._
 
 Summer Schools
