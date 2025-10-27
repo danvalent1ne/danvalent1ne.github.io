@@ -23,7 +23,7 @@ Education
 * **MPhys Physics with Astrophysics**, University of Leeds (Sep 2018 - Jul 2022).
   * _Grade: First Class (Average Mark - 87)._
   * _MPhys Project: Studying the Invisible in the Visible: An Optical Catalogue and Pilot Survey of the Multiplicity of Massive Young Stellar Objects (MYSOs) using Gaia._
-    * _Supervisor: [Professor René Oudmaijer](https://orcid.org/0000-0001-7703-3992)._
+    * _MPhys Project Supervisor: [Professor René Oudmaijer](https://orcid.org/0000-0001-7703-3992)._
 
 Research Positions
 ======
@@ -35,7 +35,9 @@ Research Positions
   
 Grants, Scholarships, and Awards
 ======
-* **[ESA Archival Research Visitor Funding](https://www.cosmos.esa.int/web/esdc/visitor-programme)**, ESTEC (Sep - Dec 2024).
+* Peter Bye Travel Bursary, University of Bristol (Jul 2025).
+  * _Competitively awarded to fund conference travel (£500)._
+* ESA Archival Research Visitor Funding, European Space Agency (Sep - Dec 2024).
   * _Competitively awarded and fully funded (~£10,000)._
 * **Bolton Prize in Astrophysics**, University of Leeds (2022).
   * _Awarded to the student, on a Physics with Astrophysics programme, achieving the highest classification average._
@@ -61,6 +63,8 @@ Summer Schools
 * **ExoSLAM I Summer School**, University of Exeter, UK (Jun 2023).
 
 Workshops
+* **BOWIE+ Collaboration JWST Proposal Workshop**, University of Bristol, UK (Sep 2025).
+  * _Session Chair_.
 * **BOWIE+ Collaboration JWST Proposal Workshop**, University of Leeds, UK (Apr 2025).
   * _Session Chair_.
 * **BOWIE+ Collaboration JWST Proposal Workshop**, University of Bristol, UK (Sep 2023).
@@ -71,6 +75,8 @@ Workshops
 Talks, Seminars, and Posters
 ======
 Seminars
+* **Astrophysics Seminar, University of Leicester** (Mar 2025).
+  * _"Eclipse mapping of exoplanet atmospheres: today with JWST, one day with Ariel"_.
 * **Breakfast Seminar, ESA ESTEC** (Dec 2024).
   * _"Mapping the Dayside Atmospheres of Transiting Exoplanets: today with JWST, one day with Ariel"_.
 * **ExoCoffee, Max Planck Institute for Astronomy (MPIA)** (Nov 2024).
