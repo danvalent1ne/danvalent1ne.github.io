@@ -142,8 +142,8 @@ Publications
 First Author
 * JWST-TST DREAMS: 3D Eclipse Mapping of WASP-17b with NIRISS/SOSS, NIRSpec/G395H, and MIRI/LRS
   * **Valentine, D.**, et al., in prep.
-* Eclipse Mapping with Ariel: Future Prospects for a Population-Level Mapping Survey
-  * **Valentine, D.**, et al., MNRAS, in review.
+* **[Eclipse Mapping with Ariel: Future Prospects for a Population-Level Mapping Survey](https://arxiv.org/abs/2510.03147)**
+  * **Valentine, D.**, et al., MNRAS, accepted.
 * **[JWST-TST DREAMS: Non-Uniform Dayside Emission for WASP-17b from MIRI/LRS](https://arxiv.org/abs/2410.08148)**
   * **Valentine, D.**, et al., 2024, AJ, 168, 123.
 
