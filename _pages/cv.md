@@ -148,14 +148,18 @@ First Author
   * **Valentine, D.**, et al., 2024, AJ, 168, 123.
 
 Co-Author
-* JWST-TST DREAMS: Secondary Atmosphere Constraints for the Habitable Zone Planet TRAPPIST-1e
-  * Glidden, A., et al., ApJ, accepted.
-* JWST-TST DREAMS: NIRSpec/PRISM Transmission Spectroscopy of the Habitable Zone Planet TRAPPIST-1 e
-  * Espinoza, N., et al., ApJ, accepted.
-* BOWIE-ALIGN: weak spectral features in KELT-7b’s JWST NIRSpec/G395H transmission spectrum imply a high cloud deck or a low-metallicity atmosphere
-  * Ahrer, E., et al., MNRAS, in review.
+* **[JWST-TST DREAMS: The Nightside Emission and Chemistry of WASP-17b](https://arxiv.org/abs/2510.06169)**
+  * Lustig-Yaeger, J., et al., in review, AJ.
+* **[JWST-TST DREAMS: Sulfur dioxide in the atmosphere of the Neptune-mass planet HAT-P-26\,b from NIRSpec G395H transmission spectroscopy](https://arxiv.org/abs/2509.16082)**
+  * Gressier, A., et al., accepted, AJ.
+* **[BOWIE-ALIGN: weak spectral features in KELT-7b’s JWST NIRSpec/G395H transmission spectrum imply a high cloud deck or a low-metallicity atmosphere](https://arxiv.org/abs/2509.12479)**
+  * Ahrer, E., et al., 2025, MNRAS, 543, 2442.
+* **[JWST-TST DREAMS: Secondary Atmosphere Constraints for the Habitable Zone Planet TRAPPIST-1e](https://arxiv.org/abs/2509.05414)**
+  * Glidden, A., et al., 2025, ApJ, 990, L53.
+* **[JWST-TST DREAMS: NIRSpec/PRISM Transmission Spectroscopy of the Habitable Zone Planet TRAPPIST-1 e](https://arxiv.org/abs/2509.05414)**
+  * Espinoza, N., et al., 2025, ApJ, 990, L52.
 * **[BOWIE-ALIGN: Sub-stellar metallicity and carbon depletion in the aligned TrES-4b with JWST NIRSpec transmission spectroscopy](https://arxiv.org/abs/2503.24280)**
-  * Meech, A., et al., MNRAS, 2025, TBC.
+  * Meech, A., et al., 2025, MNRAS, 539, 1381.
 * **[JWST-TST DREAMS: A Precise Water Abundance for Hot Jupiter WASP-17b from the NIRISS SOSS Transmission Spectrum](https://arxiv.org/abs/2412.03675)**
   * Louie, D., et al., 2025, AJ, 169, 86.
 * **[JWST-TST DREAMS: A Super-Solar Metallicity in WASP-17 b’s Day-side Atmosphere from NIRISS SOSS Eclipse Spectroscopy](https://arxiv.org/abs/2410.08149)**
@@ -166,5 +170,7 @@ Co-Author
   * Kirk, J., et al., 2024, RASTI, 3, 691.
 * **[JWST-TST DREAMS: Quartz Clouds in the Atmosphere of WASP-17b](https://arxiv.org/abs/2310.08637)**
   * Grant, D., et al., 2023, ApJL, 956, L32.
+* **[Exo-TiC/ExoTiC-MIRI: ExoTiC-MIRI v1.0.0](https://zenodo.org/records/8211207)**
+  * Grant, D., Valentine, D., Wakeford, H.R., 2023, Zenodo, v1.0.0.
 * **[JWST-TST Proper Motions: I. High-Precision NIRISS Calibration and LMC Kinematics](https://arxiv.org/abs/2303.00009)**
-  * Libralato, M., AJ, 2023, 950, 101.
+  * Libralato, M., 2023, AJ, 950, 101.
