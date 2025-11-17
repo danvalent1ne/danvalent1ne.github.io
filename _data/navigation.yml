@@ -26,8 +26,11 @@ main:
 #  - title: "Home"
 #    url: /about/
 
-  - title: "Research"
+  - title: "Methods"
     url: /methods/
+
+  - title: "Research"
+    url: /research/
     
   - title: "CV"
     url: /cv/

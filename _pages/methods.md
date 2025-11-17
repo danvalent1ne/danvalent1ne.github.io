@@ -12,7 +12,7 @@ header:
 
 {% include base_path %}
 
-<span style="color:blue;font-size=30pt">Research</span>
+<span style="color:blue;font-size=30pt">Methods</span>
 ======
 I work on characterising exoplanet atmospheres using the transit method. In particular, I use secondary eclipse observations, when a transiting exoplanet is eclipsed by its host star, to characterise the daysides of these exotic worlds. I do this using two primary methods: emission spectroscopy and eclipse mapping.
 
