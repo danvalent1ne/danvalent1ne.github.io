@@ -42,7 +42,7 @@ We present the first spectroscopic characterisation of the dayside atmosphere of
 [Eclipse Mapping with Ariel: Future Prospects for a Population-Level Mapping Survey](https://arxiv.org/abs/2510.03147)
 ======
 <figure>
-    <img src="../images/ariel_emm_survey_param_space.pdf" style="width:750px;height:auto;float:right;"
+    <img src="../images/ariel_emm_survey_param_space_v11.pdf" style="width:750px;height:auto;float:right;"
          alt="Parameter space of targets which are eclipse mappable with Ariel, by the Eclipse Mapping Metric predictions.">
     <figcaption>Ariel “eclipse mappable” targets.</figcaption>
 </figure>
