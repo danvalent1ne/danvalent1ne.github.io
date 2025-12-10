@@ -25,8 +25,6 @@ header:
 <figure>
     <img src="../images/w17_miri_lrs_spectrum.pdf" style="width:600px;height:auto"
          alt="WASP-17b MIRI/LRS Emission Spectrum with Best-Fit PICASO Forward Models and Blackbody">
-[//]: # (    <figcaption>MIRI/LRS emission spectrum of WASP-17b &#40;ExoTiC-MIRI reduction in blue, Eureka! reduction in pink&#41;.)
-[//]: # ( Overlaid are best-fit PICACO forward models to each reduction, and the median best-fit blackbody.</figcaption>)
     <figcaption>MIRI/LRS emission spectrum of WASP-17b.</figcaption>
 </figure>
 
@@ -34,7 +32,7 @@ header:
 [//]: # (*MIRI/LRS eclipse map of WASP-17b, with the basis eigenmaps included below.*)
 
 <figure>
-    <img src="../images/w17_miri_eclipse_map_crop.pdf" style="width:500px;height:auto"
+    <img src="../images/w17_miri_eclipse_map_crop.pdf" style="width:500px;height:auto;float:right"
          alt="WASP-17b MIRI/LRS Eclipse Map.">
     <figcaption>MIRI/LRS eclipse map of WASP-17b.</figcaption>
 </figure>
