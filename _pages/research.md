@@ -32,7 +32,7 @@ header:
 [//]: # (*MIRI/LRS eclipse map of WASP-17b, with the basis eigenmaps included below.*)
 
 <figure>
-    <img src="../images/w17_miri_eclipse_map_crop.pdf" style="width:500px;height:auto;float:right"
+    <img src="../images/w17_miri_eclipse_map_crop.pdf" style="width:500px;height:auto;float:left"
          alt="WASP-17b MIRI/LRS Eclipse Map.">
     <figcaption>MIRI/LRS eclipse map of WASP-17b.</figcaption>
 </figure>
