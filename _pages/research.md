@@ -43,8 +43,8 @@ We present the first spectroscopic characterisation of the dayside atmosphere of
 ======
 <figure>
     <img src="../images/ariel_emm_survey_param_space.pdf" style="width:600px;height:auto;float:left;"
-         alt="Ariel “eclipse mappable” targets.">
-    <figcaption>MIRI/LRS eclipse map of WASP-17b.</figcaption>
+         alt="Parameter space of targets which are eclipse mappable with Ariel, by the Eclipse Mapping Metric predictions.">
+    <figcaption>Ariel “eclipse mappable” targets.</figcaption>
 </figure>
 
 Eclipse mapping is a powerful tool for measuring 3D profiles of exoplanet atmospheres. To date, only JWST has been capable of widely applying this technique, but as a general observatory, it is too time-limited to conduct population-level mapping studies. Ariel, on the other hand, is a dedicated exoplanet mission set to observe 1000 transiting exoplanets, making it a natural candidate for this. To assess Ariel's mapping potential, we quantitatively benchmark its abilities against those of JWST using a simulation-and-retrieval framework with existing JWST eclipse maps as test cases. We find that for high-ranking targets, Ariel will be able to derive qualitatively similar maps to JWST using the same amount of observations; for mid-ranking targets, Ariel will be able to compete using as few as 3x as many observations; and for lower-ranking targets, the use of phase curves overcomes the need for an impractical number of repeated eclipse observations. We find that while Ariel is unlikely to have extensive latitudinal mapping abilities, it will have wide-ranging longitudinal abilities, from which the first-order atmospheric dynamics can be constrained. Using an analytically-derived metric, we determine the best eclipse mapping targets for Ariel, finding that it will be able to map nearly 100 targets using full phase curves in only quarter of its lifetime. This would be the largest mapping survey to date, and have enormous ramifications for our demographic understanding of exoplanet atmospheric dynamics. Finally, we rank all the best mapping targets for both JWST and Ariel in order to encourage future eclipse mapping studies.
