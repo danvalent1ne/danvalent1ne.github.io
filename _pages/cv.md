@@ -75,6 +75,8 @@ Workshops
 Talks, Seminars, and Posters
 ======
 Seminars
+* **ECR Highlights Seminar, BOWIE+ Online Seminar Series** (Nov 2025).
+  * _["Eclipse Mapping with Ariel: Future Prospects for a Population-Level Mapping Survey"](https://www.youtube.com/watch?v=lrtLRu26Umk&list=PLSTEnI8_NKP7ezvahseESu8Psx8uG6uEu)_.
 * **Astrophysics Seminar, University of Leicester** (Mar 2025).
   * _"Eclipse mapping of exoplanet atmospheres: today with JWST, one day with Ariel"_.
 * **Breakfast Seminar, ESA ESTEC** (Dec 2024).
@@ -90,7 +92,7 @@ Seminars
 
 Talks
 * **Madrid Area Exoplanet Science Meeting** (Invited Talk, Online, Dec 2024).
-  * _“Looking on the Bright Side: Mapping the Dayside Atmospheres of Transiting Exoplanets with JWST (...and More?)"_.
+  * _[“Looking on the Bright Side: Mapping the Dayside Atmospheres of Transiting Exoplanets with JWST (...and More?)"](https://www.cosmos.esa.int/web/exoplanetsworkinggroup/esa-s-madrid-area-exoplanet-science-meeting-maesm-2024)_.
 * **Exoplanets V** (Contributed Talk, Jun 2024).
   * _"A comprehensive 3D eclipse map of the hot Jupiter WASP-17b"_.
 * **UKExoM 2024** (Contributed Talk, Apr 2024).
@@ -107,7 +109,7 @@ Posters
 Teaching and Outreach
 ======
 * **Institute of Physics (IoP) Volunteer**, Wrexham Eisteddfod (Aug 2025).
-  * _2 days volunteering at the IoP stand at the Welsh National Eisteddfod, Europe's largest cultural event_.
+  * _2 days volunteering with the IoP at the Welsh National Eisteddfod, Europe's largest cultural event_.
 * **Teaching Support Assistant**, University of Bristol (Jan 2024 - Apr 2025).
   * _PHYS10600 Stars & Planets, 1st Year undergraduate course - 70hrs/semester, ∼ 120-140 students_.
 * **Pint of Science**, Invited Public Outreach Talk (May 2024).
@@ -120,10 +122,11 @@ Teaching and Outreach
 Collaborations
 ======
 * [JWST-TST DREAMS](https://www.stsci.edu/~marel/jwsttelsciteam.html): Member.
+* [Ariel Mission Consortium](https://arielmission.space): Member.
 * [STARGATE](https://stargatecollaboration.github.io/index.html): Member.
 * [BOWIE+](https://bowiecollaboration.github.io): Member, Steering Committee 2025.
 * [BOWIE-ALIGN](https://arxiv.org/pdf/2407.03198): Member.
-* [GO 6456/9256 Collaboration](https://www.stsci.edu/jwst/science-execution/program-information?id=6456): Member, Co-I.
+* [JWST TRAPPIST-1 e/b Program](https://www.stsci.edu/jwst/science-execution/program-information?id=6456): Member, Co-I.
 
 Observing Programmes
 ======
@@ -149,15 +152,17 @@ First Author
 * JWST-TST DREAMS: 3D Eclipse Mapping of WASP-17b with NIRISS/SOSS, NIRSpec/G395H, and MIRI/LRS
   * **Valentine, D.**, et al., in prep.
 * **[Eclipse Mapping with Ariel: Future Prospects for a Population-Level Mapping Survey](https://arxiv.org/abs/2510.03147)**
-  * **Valentine, D.**, et al., MNRAS, accepted.
+  * **Valentine, D.**, et al., MNRAS, 544, 3641.
 * **[JWST-TST DREAMS: Non-Uniform Dayside Emission for WASP-17b from MIRI/LRS](https://arxiv.org/abs/2410.08148)**
   * **Valentine, D.**, et al., 2024, AJ, 168, 123.
 
 Co-Author
+* **[JWST TRAPPIST-1 e/b Program: Motivation and first observations](https://arxiv.org/abs/2512.07695)**
+  * Allen, N., et al., AJ, accepted.
 * **[JWST-TST DREAMS: The Nightside Emission and Chemistry of WASP-17b](https://arxiv.org/abs/2510.06169)**
-  * Lustig-Yaeger, J., et al., in review, AJ.
+  * Lustig-Yaeger, J., et al., AJ, 994, L4.
 * **[JWST-TST DREAMS: Sulfur dioxide in the atmosphere of the Neptune-mass planet HAT-P-26\,b from NIRSpec G395H transmission spectroscopy](https://arxiv.org/abs/2509.16082)**
-  * Gressier, A., et al., accepted, AJ.
+  * Gressier, A., et al., AJ, 170, 292.
 * **[BOWIE-ALIGN: weak spectral features in KELT-7b’s JWST NIRSpec/G395H transmission spectrum imply a high cloud deck or a low-metallicity atmosphere](https://arxiv.org/abs/2509.12479)**
   * Ahrer, E., et al., 2025, MNRAS, 543, 2442.
 * **[JWST-TST DREAMS: Secondary Atmosphere Constraints for the Habitable Zone Planet TRAPPIST-1e](https://arxiv.org/abs/2509.05414)**
