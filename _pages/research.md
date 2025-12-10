@@ -13,3 +13,14 @@ header:
 {% include base_path %}
 
 <span style="color:blue;font-size=30pt">Research</span>
+======
+
+[JWST-TST DREAMS: Non-Uniform Dayside Emission for WASP-17b from MIRI/LRS](https://arxiv.org/abs/2410.08148)
+======
+
+
+[Eclipse Mapping with Ariel: Future Prospects for a Population-Level Mapping Survey](https://arxiv.org/abs/2510.03147)
+======
+
+[JWST GO 5687: Unlocking New Dimensions in Eclipse Mapping with KELT-8b](https://www.stsci.edu/jwst-program-info/program/?program=5687)
+======
