@@ -58,6 +58,13 @@ Eclipse mapping is a powerful tool for measuring 3D profiles of exoplanet atmosp
 
 [JWST GO 5687: Unlocking New Dimensions in Eclipse Mapping with KELT-8b](https://www.stsci.edu/jwst-program-info/program/?program=5687)
 ======
+
+<figure>
+    <img src="../images/5687_strategy.pdf" style="width:750px;height:auto;"
+         alt="GO 5687 KELT-8b Observing Strategy.">
+    <figcaption>JWST GO 5687 KELT-8b Observing Strategy.</figcaption>
+</figure>
+
 Eclipse mapping is currently the only method capable of measuring 2D (latitude-longitude) profiles of exoplanet atmospheres. The method has been
 used to accurately map the longitudinal profiles of a handful of exoplanets, allowing us to characterise their atmospheric dynamics using key tracers
 such as the longitudinal offset of the hotspot (the hottest point on the planet) due to supersonic jets. However, no exoplanet has yet been adequately
