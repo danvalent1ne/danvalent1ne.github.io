@@ -19,9 +19,11 @@ header:
 ======
 
 ![WASP-17b MIRI/LRS Emission Spectrum with Best-Fit PICASO Forward Models and Blackbody](../images/w17_miri_lrs_spectrum.pdf)
+*MIRI/LRS emission spectrum of WASP-17b (ExoTiC-MIRI reduction in blue, Eureka! reduction in pink). Overlaid are best-fit PICACO forward models to each reduction, and the median best-fit blackbody.*
 
 ![WASP-17b MIRI/LRS Eclipse Map](../images/w17_miri_eclipse_map.pdf)
-
+*MIRI/LRS eclipse map of WASP-17b, with the basis eigenmaps included below.*
+ 
 [Eclipse Mapping with Ariel: Future Prospects for a Population-Level Mapping Survey](https://arxiv.org/abs/2510.03147)
 ======
 
