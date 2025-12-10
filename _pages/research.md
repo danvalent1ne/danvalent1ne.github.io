@@ -18,6 +18,8 @@ header:
 [JWST-TST DREAMS: Non-Uniform Dayside Emission for WASP-17b from MIRI/LRS](https://arxiv.org/abs/2410.08148)
 ======
 
+![WASP-17b MIRI/LRS Eclipse Map](../images/w17_miri_eclipse_map.pdf)
+
 
 [Eclipse Mapping with Ariel: Future Prospects for a Population-Level Mapping Survey](https://arxiv.org/abs/2510.03147)
 ======
