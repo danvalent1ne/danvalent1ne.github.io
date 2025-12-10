@@ -24,7 +24,7 @@ header:
 
 <figure>
     <img src="../images/w17_miri_lrs_spectrum.pdf" style="width:400px;height:auto"
-         alt="WASP-17b MIRI/LRS Emission Spectrum with Best-Fit PICASO Forward Models and Blackbody">
+         alt="WASP-17b MIRI/LRS Emission Spectrum with Best-Fit PICASO \\ Forward Models and Blackbody">
     <figcaption>MIRI/LRS emission spectrum of WASP-17b (ExoTiC-MIRI reduction in blue, Eureka! reduction in pink).
  Overlaid are best-fit PICACO forward models to each reduction, and the median best-fit blackbody.</figcaption>
 </figure>
