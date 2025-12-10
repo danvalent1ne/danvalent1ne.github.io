@@ -43,7 +43,7 @@ We present the first spectroscopic characterisation of the dayside atmosphere of
 ======
 
 <figure>
-    <img src="../images/w18_maps.pdf" style="width:1000px;height:auto;"
+    <img src="../images/w18_maps.pdf" style="width:850px;height:auto;"
          alt="WASP-18b eclipse maps, as observed with JWST using 1 eclipse, what Ariel could achieve using 3 eclipses, and difference map.">
     <figcaption>JWST versus Ariel eclipse mapping capabilities.</figcaption>
 </figure>
@@ -60,7 +60,7 @@ Eclipse mapping is a powerful tool for measuring 3D profiles of exoplanet atmosp
 ======
 
 <figure>
-    <img src="../images/5687_strategy.pdf" style="width:1000px;height:auto;"
+    <img src="../images/5687_strategy.pdf" style="width:850px;height:auto;"
          alt="GO 5687 KELT-8b Observing Strategy.">
     <figcaption>JWST GO 5687 KELT-8b Observing Strategy.</figcaption>
 </figure>
