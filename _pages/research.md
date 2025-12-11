@@ -43,7 +43,7 @@ We present the first spectroscopic characterisation of the dayside atmosphere of
 ======
 
 <figure>
-    <img src="../images/w18_maps.pdf" style="width:850px;height:auto;"
+    <img src="../images/w18_maps.pdf" style="width:1000px;height:auto;"
          alt="WASP-18b eclipse maps, as observed with JWST using 1 eclipse, what Ariel could achieve using 3 eclipses, and difference map.">
     <figcaption>JWST versus Ariel eclipse mapping capabilities.</figcaption>
 </figure>
@@ -59,12 +59,6 @@ Eclipse mapping is a powerful tool for measuring 3D profiles of exoplanet atmosp
 [JWST GO 5687: Unlocking New Dimensions in Eclipse Mapping with KELT-8b](https://www.stsci.edu/jwst-program-info/program/?program=5687)
 ======
 
-<figure>
-    <img src="../images/5687_strategy.pdf" style="width:850px;height:auto;"
-         alt="GO 5687 KELT-8b Observing Strategy.">
-    <figcaption>JWST GO 5687 KELT-8b Observing Strategy.</figcaption>
-</figure>
-
 Eclipse mapping is currently the only method capable of measuring 2D (latitude-longitude) profiles of exoplanet atmospheres. The method has been
 used to accurately map the longitudinal profiles of a handful of exoplanets, allowing us to characterise their atmospheric dynamics using key tracers
 such as the longitudinal offset of the hotspot (the hottest point on the planet) due to supersonic jets. However, no exoplanet has yet been adequately
@@ -72,6 +66,12 @@ mapped in latitude because there is a limited parameter space in which we are ca
 induced by a marginal misalignment between the magnetic field of an exoplanet and its spin axis, with the scale of the offset related to the field
 strength and angle of misalignment. Characterising this offset would thus allow us to probe these parameters for planetary-mass objects for the first
 time, which is only possible via eclipse mapping because it is the only method capable of mapping these objects in latitude as well as longitude.
+
+<figure>
+    <img src="../images/5687_strategy.pdf" style="width:1000px;height:auto;"
+         alt="GO 5687 KELT-8b Observing Strategy.">
+    <figcaption>JWST GO 5687 KELT-8b Observing Strategy.</figcaption>
+</figure>
 
 KELT-8b’s 1675 K equilibrium temperature make it ideally susceptible to a magnetically-induced latitudinal hotspot offset, and its 0.741 impact
 parameter and 45 minute ingress/egress duration make this offset optimally observable. We will use MIRI/LRS to observe two eclipses of KELT-8b,
