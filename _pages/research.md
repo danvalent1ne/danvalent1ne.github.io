@@ -43,7 +43,7 @@ We present the first spectroscopic characterisation of the dayside atmosphere of
 ======
 
 <figure>
-    <img src="../images/w18_maps.pdf" style="width:1000px;height:auto;"
+    <img src="../images/w18_maps.pdf" style="width:900px;height:auto;"
          alt="WASP-18b eclipse maps, as observed with JWST using 1 eclipse, what Ariel could achieve using 3 eclipses, and difference map.">
     <figcaption>JWST versus Ariel eclipse mapping capabilities.</figcaption>
 </figure>
@@ -68,7 +68,7 @@ strength and angle of misalignment. Characterising this offset would thus allow 
 time, which is only possible via eclipse mapping because it is the only method capable of mapping these objects in latitude as well as longitude.
 
 <figure>
-    <img src="../images/5687_strategy.pdf" style="width:1000px;height:auto;"
+    <img src="../images/5687_strategy.pdf" style="width:900px;height:auto;"
          alt="GO 5687 KELT-8b Observing Strategy.">
     <figcaption>JWST GO 5687 KELT-8b Observing Strategy.</figcaption>
 </figure>
