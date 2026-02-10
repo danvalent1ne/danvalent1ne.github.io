@@ -153,17 +153,17 @@ First Author
 * JWST-TST DREAMS: 3D Eclipse Mapping of WASP-17b with NIRISS/SOSS, NIRSpec/G395H, and MIRI/LRS
   * **Valentine, D.**, et al., in prep.
 * **[Eclipse Mapping with Ariel: Future Prospects for a Population-Level Mapping Survey](https://arxiv.org/abs/2510.03147)**
-  * **Valentine, D.**, et al., MNRAS, 544, 3641.
+  * **Valentine, D.**, et al., 2025, MNRAS, 544, 3641.
 * **[JWST-TST DREAMS: Non-Uniform Dayside Emission for WASP-17b from MIRI/LRS](https://arxiv.org/abs/2410.08148)**
   * **Valentine, D.**, et al., 2024, AJ, 168, 123.
 
 Co-Author
 * **[JWST TRAPPIST-1 e/b Program: Motivation and first observations](https://arxiv.org/abs/2512.07695)**
-  * Allen, N., et al., AJ, 171, 105.
+  * Allen, N., et al., 2026, AJ, 171, 105.
 * **[JWST-TST DREAMS: The Nightside Emission and Chemistry of WASP-17b](https://arxiv.org/abs/2510.06169)**
-  * Lustig-Yaeger, J., et al., AJ, 994, L4.
+  * Lustig-Yaeger, J., et al., 2025, AJ, 994, L4.
 * **[JWST-TST DREAMS: Sulfur dioxide in the atmosphere of the Neptune-mass planet HAT-P-26\,b from NIRSpec G395H transmission spectroscopy](https://arxiv.org/abs/2509.16082)**
-  * Gressier, A., et al., AJ, 170, 292.
+  * Gressier, A., et al., 2025, AJ, 170, 292.
 * **[BOWIE-ALIGN: weak spectral features in KELT-7b’s JWST NIRSpec/G395H transmission spectrum imply a high cloud deck or a low-metallicity atmosphere](https://arxiv.org/abs/2509.12479)**
   * Ahrer, E., et al., 2025, MNRAS, 543, 2442.
 * **[JWST-TST DREAMS: Secondary Atmosphere Constraints for the Habitable Zone Planet TRAPPIST-1e](https://arxiv.org/abs/2509.05414)**
