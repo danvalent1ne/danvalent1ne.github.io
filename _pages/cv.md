@@ -35,9 +35,9 @@ Research Positions
   
 Grants, Scholarships, and Awards
 ======
-* Peter Bye Travel Bursary, University of Bristol (Jul 2025).
+* **Peter Bye Travel Bursary**, University of Bristol (Jul 2025).
   * _Competitively awarded to fund conference travel (£500)._
-* ESA Archival Research Visitor Funding, European Space Agency (Sep - Dec 2024).
+* **ESA Archival Research Visitor Funding**, European Space Agency (Sep - Dec 2024).
   * _Competitively awarded and fully funded (~£10,000)._
 * **Bolton Prize in Astrophysics**, University of Leeds (2022).
   * _Awarded to the student, on a Physics with Astrophysics programme, achieving the highest classification average._
@@ -81,8 +81,9 @@ Seminars
   * _"Eclipse mapping of exoplanet atmospheres: today with JWST, one day with Ariel"_.
 * **Breakfast Seminar, ESA ESTEC** (Dec 2024).
   * _"Mapping the Dayside Atmospheres of Transiting Exoplanets: today with JWST, one day with Ariel"_.
-* **ExoCoffee, Max Planck Institute for Astronomy (MPIA)** (Nov 2024).
-  * _Summary of “JWST-TST DREAMS: Non-Uniform Dayside Emission for WASP-17b from MIRI/LRS"_.
+* **ExoCoffee, Max Planck Institute for Astronomy (MPIA)**.
+  * _Summary of “JWST-TST DREAMS: Non-Uniform Dayside Emission for WASP-17b from MIRI/LRS"_ (Nov 2024).
+  * _Summary of “Eclipse Mapping with Ariel: Future Prospects for a Population-Level Mapping Survey"_ (Feb 2026).
 * **Exoplanets & Discs Meeting, University of Amsterdam** (Nov 2024).
   * _"A Tale of Two Models: the limitations of 1D modelling and need for 3D modelling of exoplanet atmospheres in the era of JWST"_.
 * **Exoplanet Lunch Meeting, University of Leiden** (Nov 2024).
@@ -114,7 +115,7 @@ Teaching and Outreach
   * _PHYS10600 Stars & Planets, 1st Year undergraduate course - 70hrs/semester, ∼ 120-140 students_.
 * **Pint of Science**, Invited Public Outreach Talk (May 2024).
   * _"Looking on the bright side: mapping dayside exoplanet atmospheres with the James Webb Space Telescope"_.
-* **NPQ Interview** (Feb 2024).
+* **EPQ Interview** (Feb 2024).
   * _"What aspect/s of US and UK research into exoplanets offers the most potential for future exoplanet research?"_
 * **Filton Avenue Primary School Space Week Talk** (Oct 2023).
   * _"Exploring the Universe"_.
@@ -124,7 +125,7 @@ Collaborations
 * [JWST-TST DREAMS](https://www.stsci.edu/~marel/jwsttelsciteam.html): Member.
 * [Ariel Mission Consortium](https://arielmission.space): Member.
 * [STARGATE](https://stargatecollaboration.github.io/index.html): Member.
-* [BOWIE+](https://bowiecollaboration.github.io): Member, Steering Committee 2025.
+* [BOWIE+](https://bowiecollaboration.github.io): Member, Steering Committee Mar 2025 -- Present.
 * [BOWIE-ALIGN](https://arxiv.org/pdf/2407.03198): Member.
 * [JWST TRAPPIST-1 e/b Program](https://www.stsci.edu/jwst/science-execution/program-information?id=6456): Member, Co-I.
 
@@ -158,7 +159,7 @@ First Author
 
 Co-Author
 * **[JWST TRAPPIST-1 e/b Program: Motivation and first observations](https://arxiv.org/abs/2512.07695)**
-  * Allen, N., et al., AJ, accepted.
+  * Allen, N., et al., AJ, 171, 105.
 * **[JWST-TST DREAMS: The Nightside Emission and Chemistry of WASP-17b](https://arxiv.org/abs/2510.06169)**
   * Lustig-Yaeger, J., et al., AJ, 994, L4.
 * **[JWST-TST DREAMS: Sulfur dioxide in the atmosphere of the Neptune-mass planet HAT-P-26\,b from NIRSpec G395H transmission spectroscopy](https://arxiv.org/abs/2509.16082)**
