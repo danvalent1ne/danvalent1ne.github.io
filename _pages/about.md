@@ -13,7 +13,8 @@ header:
 
 About Me
 ======
-I'm a final year PhD student at the University of Bristol, where I work in [Dr Hannah Wakeford's group](https://stellarplanet.org/research-group/) on characterising exoplanet atmospheres using the transit method. In particular, I use secondary eclipse observations, when a transiting exoplanet is eclipsed by its host star, to characterise the daysides of these exotic worlds. I do this using two primary methods: (1) **emission spectroscopy** in order to characterise the hemispherically-averaged chemistry and vertical temperature profile; and (2) **eclipse mapping**, which exploits the geometry of secondary eclipse with high-cadence, spectroscopic observations to map the 3D thermal profile and atmospheric dynamics. For more information on these techniques, see the Methods tab. For details on my work, see the Research tab.
+I'm a final year PhD student at the University of Bristol, where I work in [Dr Hannah Wakeford's group](https://stellarplanet.org/research-group/) on
+characterising exoplanet atmospheres using the transit method. In particular, I use secondary eclipse observations, when a transiting exoplanet is eclipsed by its host star, to characterise the daysides of these exotic worlds. I do this using two primary methods: (1) **emission spectroscopy** in order to characterise the hemispherically-averaged chemistry and vertical temperature profile; and (2) **eclipse mapping**, which exploits the geometry of secondary eclipse with high-cadence, spectroscopic observations to map the 3D thermal profile and atmospheric dynamics. For more information on these techniques, see the Methods tab. For details on my work, see the Research tab.
 
 
 
