@@ -109,11 +109,13 @@ Posters
 
 Teaching and Outreach
 ======
+* **Wales & West Spacefest**, Invited Public Outreach Talk, Bristol Aerospace Museum (Mar 2026).
+  * _"Diving Through Exoplanet Atmospheres"_.
 * **Institute of Physics (IoP) Volunteer**, Wrexham Eisteddfod (Aug 2025).
   * _2 days volunteering with the IoP at the Welsh National Eisteddfod, Europe's largest cultural event_.
 * **Teaching Support Assistant**, University of Bristol (Jan 2024 - Apr 2025).
   * _PHYS10600 Stars & Planets, 1st Year undergraduate course - 70hrs/semester, ∼ 120-140 students_.
-* **Pint of Science**, Invited Public Outreach Talk (May 2024).
+* **Pint of Science**, Invited Public Outreach Talk, Bristol (May 2024).
   * _"Looking on the bright side: mapping dayside exoplanet atmospheres with the James Webb Space Telescope"_.
 * **EPQ Interview** (Feb 2024).
   * _"What aspect/s of US and UK research into exoplanets offers the most potential for future exoplanet research?"_
