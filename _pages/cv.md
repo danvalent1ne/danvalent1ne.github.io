@@ -92,6 +92,10 @@ Seminars
   * _"From telescope to paper: a crash-course on JWST data reduction, modelling, and interpretation"_.
 
 Talks
+* **UKExoM 2026** (Invited Highlight Talk, Apr 2026).
+  * _"Diving through the Dynamics of Exoplanet Atmospheres with 3D Eclipse Mapping"_.
+* **Ariel Open Conference** (Contributed Talk, Mar 2026).
+  * _"Eclipse Mapping with Ariel: Future Prospects for a Population-Level Mapping Survey"_.
 * **Madrid Area Exoplanet Science Meeting** (Invited Talk, Online, Dec 2024).
   * _[“Looking on the Bright Side: Mapping the Dayside Atmospheres of Transiting Exoplanets with JWST (...and More?)"](https://www.cosmos.esa.int/web/exoplanetsworkinggroup/esa-s-madrid-area-exoplanet-science-meeting-maesm-2024)_.
 * **Exoplanets V** (Contributed Talk, Jun 2024).
@@ -160,6 +164,10 @@ First Author
   * **Valentine, D.**, et al., 2024, AJ, 168, 123.
 
 Co-Author
+* **[BOWIE-ALIGN: Exploring degeneracies in the muted transmission spectrum of the aligned hot Jupiter NGTS-2b with NIRSpec/G395H](https://arxiv.org/abs/2603.18332)**
+  * Fairman, C., et al., 2026, MNRAS, TBC, TBC.
+* **[BOWIE-ALIGN: Sub-solar C/O ratio and metallicity atmosphere of the misaligned hot Jupiter HAT-P-30b](https://arxiv.org/abs/2601.13104)**
+  * Claringbold, A., et al., 2026, MNRAS, 546, 143.
 * **[JWST TRAPPIST-1 e/b Program: Motivation and first observations](https://arxiv.org/abs/2512.07695)**
   * Allen, N., et al., 2026, AJ, 171, 105.
 * **[JWST-TST DREAMS: The Nightside Emission and Chemistry of WASP-17b](https://arxiv.org/abs/2510.06169)**
