@@ -17,8 +17,8 @@ header:
 
 Education
 ======
-* **PhD in Astrophysics**, University of Bristol (Jan 2023 - Present).
-  * _Research Focus: Emission Spectroscopy and Eclipse Mapping of Transiting Exoplanet Atmospheres with JWST and Ariel._
+* **PhD in Astrophysics**, University of Bristol (Jan 2023 - Jul 2026).
+  * _Thesis Title: Unlocking Hidden Dimensions: Mapping the Dayside Dynamics and Temperatures of Giant Exoplanets with Space-Based Observatories._
   * _Supervisor: [Dr Hannah Wakeford](https://stellarplanet.org)._
 * **MPhys Physics with Astrophysics**, University of Leeds (Sep 2018 - Jul 2022).
   * _Grade: First Class (Average Mark - 87)._
