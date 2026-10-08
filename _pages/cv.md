@@ -15,6 +15,11 @@ header:
 <span style="color:blue;font-size=30pt">CV</span>
 ======
 
+Professional Appointments
+======
+* **Postdoctoral Researcher**, Max Planck Institute for Astronomy (Oct 2026 - Present).
+* **Postdoctoral Researcher**, University of Bristol (Jul - Sep 2026).
+
 Education
 ======
 * **PhD in Astrophysics**, University of Bristol (Jan 2023 - Jul 2026).
