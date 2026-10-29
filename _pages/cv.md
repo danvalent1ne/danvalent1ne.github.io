@@ -147,6 +147,8 @@ PI Programmes
   * _Small Programme, 26.1 hrs, 2 MIRI/LRS Eclipses_.
 
 Co-I Programmes
+* **[JWST GO 10786](https://www.stsci.edu/jwst/science-execution/program-information?id=8309)**: UNITY: A Uniform JWST/NIRSpec Investigation of Hot-Jupiter Dayside Emission Across the Temperature Regime, PIs: J. Taylor & M. Radica.
+  * _Medium Programme, 113.1 hrs, 9 NIRSpec/G395M Eclipses_.
 * **[JWST GO 8309](https://www.stsci.edu/jwst/science-execution/program-information?id=8309)**: It’s (poly)Morphin’ Time! Solving the quartz quandary of WASP-17b, PIs: E. Mullens & S. Moran.
   * _Small Programme, 37.8 hrs, 2+1 MIRI/LRS Transits+Eclipse_.
 * **[JWST GO 7849](https://www.stsci.edu/jwst/science-execution/program-information?id=7849)**: Meeting their Match: Measuring Cloudy Hot Jupiter Counterparts to Understand the Silicate Cloud Regime with JWST/MIRI, PIs: S. Moran & L. Alderson.
@@ -169,8 +171,12 @@ First Author
   * **Valentine, D.**, et al., 2024, AJ, 168, 123.
 
 Co-Author
+* **[A spatial map of the atmospheric limb of a hot Jupiter](https://arxiv.org/abs/2610.18806)**
+  * Alderson, L., et al., 2026, Nature Astronomy, TBC, TBC.
+* **[Leveraging Impact Parameter to Mitigate the Transit Light Source Effect: Early Insights from TRAPPIST-1](https://arxiv.org/abs/2608.20450)**
+  * Glidden, A., et al., 2026, ApJL, 1008, L48.
 * **[BOWIE-ALIGN: Exploring degeneracies in the muted transmission spectrum of the aligned hot Jupiter NGTS-2b with NIRSpec/G395H](https://arxiv.org/abs/2603.18332)**
-  * Fairman, C., et al., 2026, MNRAS, TBC, TBC.
+  * Fairman, C., et al., 2026, MNRAS, 548, 528.
 * **[BOWIE-ALIGN: Sub-solar C/O ratio and metallicity atmosphere of the misaligned hot Jupiter HAT-P-30b](https://arxiv.org/abs/2601.13104)**
   * Claringbold, A., et al., 2026, MNRAS, 546, 143.
 * **[JWST TRAPPIST-1 e/b Program: Motivation and first observations](https://arxiv.org/abs/2512.07695)**
