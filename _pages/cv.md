@@ -23,63 +23,39 @@ Professional Appointments
 Education
 ======
 * **PhD in Astrophysics**, University of Bristol (Jan 2023 - Jul 2026).
-  * _Thesis Title: Unlocking Hidden Dimensions: Mapping the Dayside Dynamics and Temperatures of Giant Exoplanets with Space-Based Observatories._
-  * _Supervisor: [Dr Hannah Wakeford](https://stellarplanet.org)._
+  * Thesis Title: _[Unlocking Hidden Dimensions: Mapping the Dayside Dynamics and Temperatures of Giant Exoplanets with Space-Based Observatories](https://research-information.bris.ac.uk/files/501977570/Final_Copy_2026_08_28_Valentine_D_PhD.pdf)._
+  * Supervisor: [Dr Hannah Wakeford](https://stellarplanet.org).
 * **MPhys Physics with Astrophysics**, University of Leeds (Sep 2018 - Jul 2022).
-  * _Grade: First Class (Average Mark - 87)._
-  * _MPhys Project: Studying the Invisible in the Visible: An Optical Catalogue and Pilot Survey of the Multiplicity of Massive Young Stellar Objects (MYSOs) using Gaia._
-    * _MPhys Project Supervisor: [Professor René Oudmaijer](https://orcid.org/0000-0001-7703-3992)._
+  * Grade: First Class (Average Mark - 87).
+  * MPhys Project: _Studying the Invisible in the Visible: An Optical Catalogue and Pilot Survey of the Multiplicity of Massive Young Stellar Objects (MYSOs) using Gaia._
+    * MPhys Project Supervisor: [Professor René Oudmaijer](https://orcid.org/0000-0001-7703-3992).
 
 Research Positions
 ======
 * **[ESA Archival Research Visitor](https://www.cosmos.esa.int/web/esdc/visitor-programme)**, European Space Research and Technology Centre (ESTEC, Oct - Dec 2024).
-  * _Research Focus: Assessing the Eclipse Mapping Capabilities of Ariel through JWST Archival Studies._
-  * _Hosts: Dr Maximillian Günther & Dr Theresa Lüftinger._
+  * Research Focus: _Assessing the Eclipse Mapping Capabilities of Ariel through JWST Archival Studies._
+  * Hosts: Dr Maximillian Günther & Dr Theresa Lüftinger.
 
 [//]: # (  * _Awarded through competitive selection._)
   
 Grants, Scholarships, and Awards
 ======
-* **Peter Bye Travel Bursary**, University of Bristol (Jul 2025).
-  * _Competitively awarded to fund conference travel (£500)._
-* **ESA Archival Research Visitor Funding**, European Space Agency (Sep - Dec 2024).
-  * _Competitively awarded and fully funded (~£10,000)._
+* **Clearest Explanation of a Scientific Method (Talk)**, UKExoM 2026 (Apr 2026).
+  * Voted by the UK Exoplanet Community in attendance.
+* **Peter Bye Travel Bursary (£500)**, University of Bristol (Jul 2025).
+  * Competitively awarded to fund conference travel.
+* **ESA Archival Research Visitor Funding (~£10,000)**, European Space Agency (Sep - Dec 2024).
+  * Competitively awarded and fully funded.
 * **Bolton Prize in Astrophysics**, University of Leeds (2022).
-  * _Awarded to the student, on a Physics with Astrophysics programme, achieving the highest classification average._
-* **Scholarship of Academic Excellence**, University of Leeds (2018 - 2022).
-  * _Awarded to students achieving A*A*A or higher at A level, and thereafter maintaining a first class average. £1000 per year._
+  * Awarded to the student, on a Physics with Astrophysics programme, achieving the highest classification average.
+* **Scholarship of Academic Excellence (£1000 a year.)**, University of Leeds (2018 - 2022).
+  * Awarded to students achieving A*A*A or higher at A level, and thereafter maintaining a first class average.
 
-Conferences, Summer Schools, and Workshops
-======
-Conferences
-* **Exoclimes VII Conference**, Université de Montréal, Canada (Jul 2025).
-  * _Contributed poster._
-* **UK Exoplanet Meeting (UKExoM) 2025**, University of Leeds, UK (Apr 2025).
-  * _Contributed poster._
-* **Exoplanets V Conference**, Leiden, Netherlands (Jun 2024).
-  * _Contributed talk._
-* **UK Exoplanet Meeting (UKExoM) 2024**, University of Birmingham, UK (Apr 2024).
-  * _Contributed talk._
-* **ExoClimes VI Conference**, University of Exeter, UK (Jun 2023).
-  * _Contributed poster._
-
-Summer Schools
-* **ARES IV (Ariel Summer School)**, Frèjus, France (Jun 2023).
-* **ExoSLAM I Summer School**, University of Exeter, UK (Jun 2023).
-
-Workshops
-* **BOWIE+ Collaboration JWST Proposal Workshop**, University of Bristol, UK (Sep 2025).
-  * _Session Chair_.
-* **BOWIE+ Collaboration JWST Proposal Workshop**, University of Leeds, UK (Apr 2025).
-  * _Session Chair_.
-* **BOWIE+ Collaboration JWST Proposal Workshop**, University of Bristol, UK (Sep 2023).
-  * _Local Organising Committee (LOC)_.
-* **BOWIE+ Collaboration JWST Proposal Workshop**, University of Oxford, UK (Mar 2023).
-
-  
 Talks, Seminars, and Posters
 ======
 Seminars
+* **Astrophysics Seminar, University of Bristol** (Apr 2026).
+  * _"Unlocking Hidden Dimensions: Mapping the Dayside Dynamics and Temperatures of Giant Exoplanets with Space-Based Observatories"_.
 * **ECR Highlights Seminar, BOWIE+ Online Seminar Series** (Nov 2025).
   * _["Eclipse Mapping with Ariel: Future Prospects for a Population-Level Mapping Survey"](https://www.youtube.com/watch?v=lrtLRu26Umk&list=PLSTEnI8_NKP7ezvahseESu8Psx8uG6uEu)_.
 * **Astrophysics Seminar, University of Leicester** (Mar 2025).
@@ -87,12 +63,12 @@ Seminars
 * **Breakfast Seminar, ESA ESTEC** (Dec 2024).
   * _"Mapping the Dayside Atmospheres of Transiting Exoplanets: today with JWST, one day with Ariel"_.
 * **ExoCoffee, Max Planck Institute for Astronomy (MPIA)**.
-  * _Summary of “JWST-TST DREAMS: Non-Uniform Dayside Emission for WASP-17b from MIRI/LRS"_ (Nov 2024).
-  * _Summary of “Eclipse Mapping with Ariel: Future Prospects for a Population-Level Mapping Survey"_ (Feb 2026).
+  * _Summary of "JWST-TST DREAMS: Non-Uniform Dayside Emission for WASP-17b from MIRI/LRS"_ (Nov 2024).
+  * _Summary of "Eclipse Mapping with Ariel: Future Prospects for a Population-Level Mapping Survey"_ (Feb 2026).
 * **Exoplanets & Discs Meeting, University of Amsterdam** (Nov 2024).
-  * _"A Tale of Two Models: the limitations of 1D modelling and need for 3D modelling of exoplanet atmospheres in the era of JWST"_.
+  * _"The limitations of 1D modelling and need for 3D modelling of exoplanet atmospheres in the era of JWST"_.
 * **Exoplanet Lunch Meeting, University of Leiden** (Nov 2024).
-  * _"A Tale of Two Models: the limitations of 1D modelling and need for 3D modelling of exoplanet atmospheres in the era of JWST"_.
+  * _"The limitations of 1D modelling and need for 3D modelling of exoplanet atmospheres in the era of JWST"_.
 * **Exoplanet Seminar, University of Oxford** (Sep 2024).
   * _"From telescope to paper: a crash-course on JWST data reduction, modelling, and interpretation"_.
 
@@ -116,16 +92,34 @@ Posters
 * **ExoClimes VI** (Jun 2023).
   * _"MIRI/LRS Dayside Emission Spectrum of the Hot Jupiter WASP-17b"_.
 
+Summer Schools and Workshops
+======
+
+Summer Schools
+* **ARES IV (Ariel Summer School)**, Frèjus, France (Jun 2024).
+* **ExoSLAM I Summer School**, University of Exeter, UK (Jun 2023).
+
+Workshops
+* **BOWIE+ Collaboration JWST Observing Proposal Workshop**, University of Bristol, UK (Sep 2025).
+  * Local Organising Committee (LOC), Session Chair.
+* **BOWIE+ Collaboration JWST Observing Proposal Workshop**, University of Leeds, UK (Apr 2025).
+  * Local Organising Committee (LOC), Session Chair.
+* **BOWIE+ Collaboration JWST Observing Proposal Workshop**, University of Bristol, UK (Sep 2023).
+  * Local Organising Committee (LOC).
+* **BOWIE+ Collaboration JWST Proposal Workshop**, University of Oxford, UK (Mar 2023).
+
 Teaching and Outreach
 ======
+* **Astronomy on Tap**, Invited Public Outreach Talk (Sep 2026).
+  * _"The Star Signs of Exoplanets: Astronomy or Astrology?"_.
 * **Wales & West Spacefest**, Invited Public Outreach Talk, Bristol Aerospace Museum (Mar 2026).
   * _"Diving Through Exoplanet Atmospheres"_.
 * **Institute of Physics (IoP) Volunteer**, Wrexham Eisteddfod (Aug 2025).
-  * _2 days volunteering with the IoP at the Welsh National Eisteddfod, Europe's largest cultural event_.
+  * 2 days volunteering with the IoP at the Welsh National Eisteddfod, Europe's largest cultural event.
 * **Teaching Support Assistant**, University of Bristol (Jan 2024 - Apr 2025).
-  * _PHYS10600 Stars & Planets, 1st Year undergraduate course - 70hrs/semester, ∼ 120-140 students_.
+  * _PHYS10600 Stars & Planets_, 1st Year undergraduate course, 70hrs/semester, ∼120-140 students.
 * **Pint of Science**, Invited Public Outreach Talk, Bristol (May 2024).
-  * _"Looking on the bright side: mapping dayside exoplanet atmospheres with the James Webb Space Telescope"_.
+  * _"Looking on the bright side: mapping the daysides of exoplanet atmospheres with the James Webb Space Telescope"_.
 * **EPQ Interview** (Feb 2024).
   * _"What aspect/s of US and UK research into exoplanets offers the most potential for future exoplanet research?"_
 * **Filton Avenue Primary School Space Week Talk** (Oct 2023).
@@ -136,29 +130,29 @@ Collaborations
 * [JWST-TST DREAMS](https://www.stsci.edu/~marel/jwsttelsciteam.html): Member.
 * [Ariel Mission Consortium](https://arielmission.space): Member.
 * [STARGATE](https://stargatecollaboration.github.io/index.html): Member.
-* [BOWIE+](https://bowiecollaboration.github.io): Member, Steering Committee Mar 2025 -- Present.
+* [BOWIE+](https://bowiecollaboration.github.io): Member, Steering Committee (Mar 2025 -- Present).
 * [BOWIE-ALIGN](https://arxiv.org/pdf/2407.03198): Member.
-* [JWST TRAPPIST-1 e/b Program](https://www.stsci.edu/jwst/science-execution/program-information?id=6456): Member, Co-I.
+* [JWST TRAPPIST-1 e/b Large Program](https://www.stsci.edu/jwst/science-execution/program-information?id=6456): Member, Co-I.
 
 Observing Programmes
 ======
 PI Programmes
-* **[JWST GO 5687](https://www.stsci.edu/jwst/science-execution/program-information?id=5687)**: Unlocking New Dimensions in Eclipse Mapping with KELT-8b, PI: **D. Valentine**.
-  * _Small Programme, 26.1 hrs, 2 MIRI/LRS Eclipses_.
+* **[JWST GO 5687](https://www.stsci.edu/jwst/science-execution/program-information?id=5687)**: _"Unlocking New Dimensions in Eclipse Mapping with KELT-8b"_, PI: **D. Valentine**.
+  * Small Programme, 26.1 hrs, 2 MIRI/LRS Eclipses.
 
 Co-I Programmes
-* **[JWST GO 10786](https://www.stsci.edu/jwst/science-execution/program-information?id=8309)**: UNITY: A Uniform JWST/NIRSpec Investigation of Hot-Jupiter Dayside Emission Across the Temperature Regime, PIs: J. Taylor & M. Radica.
-  * _Medium Programme, 113.1 hrs, 9 NIRSpec/G395M Eclipses_.
-* **[JWST GO 8309](https://www.stsci.edu/jwst/science-execution/program-information?id=8309)**: It’s (poly)Morphin’ Time! Solving the quartz quandary of WASP-17b, PIs: E. Mullens & S. Moran.
-  * _Small Programme, 37.8 hrs, 2+1 MIRI/LRS Transits+Eclipse_.
-* **[JWST GO 7849](https://www.stsci.edu/jwst/science-execution/program-information?id=7849)**: Meeting their Match: Measuring Cloudy Hot Jupiter Counterparts to Understand the Silicate Cloud Regime with JWST/MIRI, PIs: S. Moran & L. Alderson.
-  * _Small Programme, 46.1 hrs, 4 MIRI/LRS Transits_.
-* **[JWST GO 6978](https://www.stsci.edu/jwst/science-execution/program-information?id=6978)**: The dayside of the coolest ultra-hot Jupiter, KELT-20b, resolved with eclipse mapping, PIs: J. Wardenier, A. Bernier & M. Hammond.
-  * _Small Programme, 16.8 hrs, 1 NIRSpec/G395H Eclipse_.
-* **[JWST GO 6456/9256](https://www.stsci.edu/jwst/science-execution/program-information?id=6456)**: Using stellar contamination proxy TRAPPIST-1 b to search for an atmosphere on TRAPPIST-1e, PIs: N. Allen & N. Espinoza.
-  * _Large Programme, 52.1+76.7 hrs, 15 NIRSpec/PRISM Transits_.
-* **[JWST GO 4105](https://www.stsci.edu/jwst/science-execution/program-information?id=4105)**: Not Your Normal Neptune: Exploring the Chemical Processes at Play in HAT-P-11b, PIs: L. Alderson & C. Fairman.
-  * _Small Programme, 14.3 hrs, 2 NIRSpec/G395H Transits_.
+* **[JWST GO 10786](https://www.stsci.edu/jwst/science-execution/program-information?id=8309)**: _"UNITY: A Uniform JWST/NIRSpec Investigation of Hot-Jupiter Dayside Emission Across the Temperature Regime"_, PIs: J. Taylor & M. Radica.
+  * Medium Programme, 113.1 hrs, 9 NIRSpec/G395M Eclipses of 9 targets.
+* **[JWST GO 8309](https://www.stsci.edu/jwst/science-execution/program-information?id=8309)**: _"It’s (poly)Morphin’ Time! Solving the quartz quandary of WASP-17b"_, PIs: E. Mullens & S. Moran.
+  * Small Programme, 37.8 hrs, 2+1 MIRI/LRS Transits+Eclipse.
+* **[JWST GO 7849](https://www.stsci.edu/jwst/science-execution/program-information?id=7849)**: _"Meeting their Match: Measuring Cloudy Hot Jupiter Counterparts to Understand the Silicate Cloud Regime with JWST/MIRI"_, PIs: S. Moran & L. Alderson.
+  * Small Programme, 46.1 hrs, 4 MIRI/LRS Transits of 3 targets.
+* **[JWST GO 6978](https://www.stsci.edu/jwst/science-execution/program-information?id=6978)**: _"The dayside of the coolest ultra-hot Jupiter, KELT-20b, resolved with eclipse mapping"_, PIs: J. Wardenier, A. Bernier & M. Hammond.
+  * Small Programme, 16.8 hrs, 1 NIRSpec/G395H Eclipse.
+* **[JWST GO 6456/9256](https://www.stsci.edu/jwst/science-execution/program-information?id=6456)**: _"Using stellar contamination proxy TRAPPIST-1 b to search for an atmosphere on TRAPPIST-1e"_, PIs: N. Allen & N. Espinoza.
+  * Large Programme, 52.1+76.7 hrs, 15 NIRSpec/PRISM Observations (each containing transits of both TRAPPIST-1b and e).
+* **[JWST GO 4105](https://www.stsci.edu/jwst/science-execution/program-information?id=4105)**: _"Not Your Normal Neptune: Exploring the Chemical Processes at Play in HAT-P-11b"_, PIs: L. Alderson & C. Fairman.
+  * Small Programme, 14.3 hrs, 2 NIRSpec/G395H Transits.
 
 Publications
 ======
